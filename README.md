@@ -6,5 +6,5 @@ Copy files to your home directory in order to use dotfile.
 Can usually be accomplished by:
 
 `git clone https://github.com/jarriagad/dotfiles.git`
-
-`mv ./dofiles/.* ~/ `
+`cd dotfiles`
+`cp .vimrc ~/`
