@@ -7,4 +7,7 @@ Can usually be accomplished by:
 
 `git clone https://github.com/jarriagad/dotfiles.git`
 
-`mv ./dofiles/.* ~/ `
+`cd dotfiles`
+
+`cp .vimrc ~/`
+
