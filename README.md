@@ -11,3 +11,5 @@ Can usually be accomplished by:
 
 `cp .vimrc ~/`
 
+.env file contains path to maintain
+
